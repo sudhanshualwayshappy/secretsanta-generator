@@ -1,4 +1,4 @@
-FROM openjdk-17-jdk
+FROM openjdk:openjdk-17-jdk
 
 EXPOSE 8081
 

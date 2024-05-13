@@ -1,4 +1,4 @@
-FROM openjdk:8ul51-jdk-alpine3.7
+FROM openjdk-11-jdk
 
 EXPOSE 8081
 
